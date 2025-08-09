@@ -1,8 +1,8 @@
-Based on the provided code, here is a README file for your "WeatherFlow" application.
-
 # WeatherFlow: Dynamic Weather Tracking 🌦️
 
 WeatherFlow is a sleek and modern web application for dynamic weather tracking. With a clean, animated interface, it allows users to quickly view the current weather conditions and a 5-day forecast for major cities.
+
+**Check out the live website here:** [https://weather-app-ten-brown-32.vercel.app/](https://weather-app-ten-brown-32.vercel.app/)
 
 -----
 
